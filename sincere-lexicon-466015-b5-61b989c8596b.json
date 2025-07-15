@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "sincere-lexicon-466015-b5",
+  "private_key_id": "61b989c8596b3ccee41f4213c632b6eed8f70a40",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCffCMJpronHlqD\nyCRkf23DPKWLftyK9q6Wl/Tvd7scmbSCzKhsjNtcvjxqtxJHOU7q1VuvomjMioNg\nuHHHYihL7h6h/BUJUVxF6JeU99SJIgk9K5VDRX271aDAxWf4neyoizjb8I3s9A3R\nA1j/eERqmpWjd1F719qvtu5dPsvk7yhqlZYECU1+P5qnElOKPHPugSVCZF01/Ymk\nWjl2G0JQlm3FIzCsMdVKYRAYSAbWOchT6n3XnJOuLphqQ0hqZW7CiDRlfa+CZiPT\niRuJgIyIxo4io5umalOLniCWSsQ+S9kiWASF7GreXVn92dtuS6DeQVG0xHWajT+V\nJblkVu2PAgMBAAECggEARXI/KZE1xxnzDSZGHpLUf2r1pRgRPdur63xw1iO7UPln\nPnuSrW3qiWh3E3rzVRtRz3UnjwO4AbUg/ylhthH6fRHLufp0SJHqjbB57Q67uBkf\nj8jeHqRwWy3raXWsT/iomD3DfRYzHuao64Y7J0c993OnzD4FN9mm6tPL2MOi8mU3\npLcuPM1dMk1K5CI57IGfGfFDDpOj/4AYNVXK8HkdqBZOK8vy5mRLiLmQNpc5jEU2\nbMtqEnDngzNn5zIae5lXBPLtJJ73zuUsPmFqe1FUsBP1Qs6B6LtCzSwWqXjZwTdI\ng501LMOOWZnCXobPJuk23BOY0Bq5M/BtaJDLxlTHqQKBgQDNEB/POrQeWx/GHaeT\nKZcax8011chaEMu1lKCKZsoVWoFx79dyuozoEnLXb5t96wShlRil4gp/4NDIB7UR\nul5g+lrcKmYRDKHkaDjs3JiXENXIZSSlJq4B28d4IbZ+t7JmPbrJHpgIVv9GY/fE\neNM982xoF2AtoGhgST1peb/2dwKBgQDHGbhu8QXCCynwO/2Aejv5N+xbLmH52bXT\nPcIa1LPNY/2he/3wD1XZ2urfECfNxw21ypYOLd7ibmiJmL4g9p6Ei9q993GODc5N\ndldYvJjx/2jWSw4PkLhTrKn0SvEZDZyj6gDpTfHxxCpETybLV+ACKoz1vu2dVyRB\nMFa85AXPqQKBgCeNoaUWHKHyT6mmFKmVDxlSSqnEp5V/wdsvZNvtQbNmtqskaPkv\nNHia/l3BoEtkZotIN+3fMMlDsuGyYuGdghDQmW/4GaHWPu/QjpJZZnFVBPdXUv8r\n+8pN+yaX0hyVECsaYwniBc8uAKUyKRtTduNvLYzSXXHPi/JujhLnMfi3AoGAb4+X\n6oIfCdWbkELtDrpvNHwDciwRNiCpY04tnz8j6Khoi72gUo0lO8cQ6CBzTTiGFCEJ\n57QIObRH2yG9F1dZB0geL2ehN0nBGWKAGvbCdIb6xWiU3l/nCOus53e+lJ0t8iLC\nk/fa4+9ZB6GaSUJaAJy7E1ACcLFNXUGquHjEUNECgYA5rhCYxgFBqAfZ4RjGELg7\nhSbtMq1zdC0LHRDfL/jBY/xizwnkSX/Q6JD1yH7lWlZw6QyC/VNxBEjA5wjVbu7h\ntXFwLxF7P+byMY2WaQrNDPF7gRNAsfCxdD2mOdZTUozDUrC9cLCzP2OgiFRvhCnx\nfeOopBuSnXR5SyW37ExLUw==\n-----END PRIVATE KEY-----\n",
+  "client_email": "discord-bot-service@sincere-lexicon-466015-b5.iam.gserviceaccount.com",
+  "client_id": "112747425588103116719",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/discord-bot-service%40sincere-lexicon-466015-b5.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
